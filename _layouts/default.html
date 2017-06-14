@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>lessons &raquo; computing.codes</title>
+	<link rel="stylesheet" href="{{site.baseurl}}/style/style.css" title="Style" type="text/css" charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <section id="walt">
+        <h1>Learning Objective:</h1>
+        <ul>
+            {% for walt in page.walt %}
+            <li>{{ walt | markdownify }}</li>
+            {% endfor %}
+        </ul>
+        
+        {% if page.keywords %}
+        <h2>Key Words</h2>
+        <ul id="keywords">
+            {% for word in page.keywords %}
+            <li>{{ word | markdownify }}</li>
+            {% endfor %}
+        </ul>
+        {% endif %}    
+    </section>
+    
+    <section id="wilf">
+        <h1>Success Criteria:</h1>
+        <h2>{{page.wilf_1_levels}}</h2>
+        <ul>
+            {% for wilf in page.wilf_1_bullets %}
+            <li>{{ wilf | markdownify }}</li>
+            {% endfor %}
+        </ul>
+        
+        <h2>{{page.wilf_2_levels}}</h2>
+        <ul>
+            {% for wilf in page.wilf_2_bullets %}
+            <li>{{ wilf | markdownify }}</li>
+            {% endfor %}
+        </ul>
+        
+        <h2>{{page.wilf_3_levels}}</h2>
+        <ul>
+            {% for wilf in page.wilf_3_bullets %}
+            <li>{{ wilf | markdownify }}</li>
+            {% endfor %}
+        </ul>
+    
+    </section>
+    
+    <section id="content">
+        {{ content }}
+    </section>
+        
+</body>
+</html>
