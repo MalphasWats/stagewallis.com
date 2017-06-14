@@ -80,6 +80,11 @@ section p, section nav
 	margin: 1em 0em 1.4em 0em;
 }
 
+section nav
+{
+	overflow:auto;
+}
+
 section nav a
 {
     display:block;
