@@ -36,15 +36,15 @@ coming soon
 
 ## Dance
 
-### Unit 1: 
-
-* [Thing you want to link to](#the_url_of_the_thing)
-* [Thing you want to link to](#the_url_of_the_thing)
-* [Thing you want to link to](#the_url_of_the_thing)
-* [Thing you want to link to](#the_url_of_the_thing)
-* [Thing you want to link to](#the_url_of_the_thing)
-* [Thing you want to link to](#the_url_of_the_thing)
-* [Thing you want to link to](#the_url_of_the_thing)
+### Unit 1: Dance Skills
+* [Dance Skills Lesson 1](y9dance/Dance Skills Lesson 1.pptx)
+* [Dance Skills Lesson 2](y9dance/Dance Skills Lesson 2.pptx)
+* [Dance Skills Lesson 3](y9dance/Dance Skills Lesson 3.pptx)
+* [Dance Skills Lesson 4](y9dance/Dance Skills Lesson 4.pptx)
+* [Dance Skills Lesson 5](y9dance/Dance Skills Lesson 5.pptx)
+* [Dance Skills Lesson 6](y9dance/Dance Skills Lesson 6.pptx)
+* [Dance Skills Lesson 7](y9dance/Dance Skills Lesson 7.pptx)
+* [Dance Skills Lesson 8](y9dance/Dance Skills Lesson 8.pptx)
 
 ### Unit 2: 
 
