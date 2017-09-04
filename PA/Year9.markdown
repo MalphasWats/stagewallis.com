@@ -18,7 +18,7 @@ title: Year 9
 * [Lesson 4 and Lesson 5 Resource -  Documentary Planning Sheet.docx](y9acting/L4 and L5 YC Resource -  Documentary Planning Sheet.docx)
 * [Lesson 4 and Lesson 5 Resource - Facts YOI & Adult.docx](y9acting/L4 and L5 YC Resource - Facts YOI & Adult.docx)
 * [Lesson 4 and Lesson 5 Resource - Same & Different.docx](y9acting/L4 and L5 YC Resource - Same & Different.docx)
-* [Lesson 6 Youth Crime - Marcus meets his victim](y9acting/Lesson 6 YC - Marcus meets his victim)
+* [Lesson 6 Youth Crime - Marcus meets his victim](y9acting/Lesson 6 YC - Marcus meets his victim.pptx)
 * [Lesson 6 Resource - Character prompts.docx](y9acting/L6 YC resource - Character prompts.docx)
 * [Lesson 6 Resource - Script Sheet.docx](y9acting/L6 YC Resource - Script Sheet.docx)
 * [Lesson 6 Resource - Sentence Starters.docx](y9acting/L6 YC Resource - Sentence Starters.docx)
