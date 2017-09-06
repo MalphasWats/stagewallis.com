@@ -6,7 +6,7 @@ title: Year 8 Music
 
 ### Unit 1: Elements of Pop Music
 
-* [Elements of Pop Music SOW](year8music/Key Stage 3 Termly SOW Music Y8 Term 1) 
+* [Elements of Pop Music SOW](year8music/Key Stage 3 Termly SOW Music Y8 Term 1.docx) 
 
 ### Unit 2: Keyboard Chords 
 
