@@ -28,10 +28,22 @@ title: Year 9
 * [Lesson 7 Resource - Starter Questions.docx](y9acting/L7 YC Resource - Starter Questions.docx)
 
 
-### Unit 2:
+### Unit 2: Duologues and Scenes
 
-coming soon
-
+* [Lesson 1 Duologues and Scenes](y9acting/Term 2/Lesson 1 Duos and Scenes.pptx)
+* [Lesson 1 Resource - Script](y9acting/Term 2/L1 reource script 1.pdf)
+* [Lesson 2 Duologues and Scenes](y9acting/Term 2/Lesson 2 Duos and Scenes.pptx)
+* [Lesson 2 Resource - Proxemic Cards](y9acting/Term 2/L2 resource - Proxemic cards.docx)
+* [Lesson 2 Resource - Proxemics Lines Breakfast Cereal](y9acting/Term 2/L2 resource - proxemics lines breakfast cereal.docx)
+* [Lesson 2 Resource - Proxemics Scenario Cards](y9acting/Term 2/L2 resource - proxemics scenario cards.docx)
+* [Lesson 2 Resource - Proxemics Questions](y9acting/Term 2/L2 resource Proxemics questions.docx)
+* [Lesson 3 Duologues and Scenes](y9acting/Term 2/Lesson 3 Duos and Scenes.pptx)
+* [Lesson 4 Duologues and Scenes](y9acting/Term 2/Lesson 4 Duos and Scenes.pptx)
+* [Lesson 5 Duologues and Scenes](y9acting/Term 2/Lesson 5 Duos and Scenes.pptx)
+* [Lesson 6 Duologues and Scenes](y9acting/Term 2/Lesson 6 Duos and Scenes.pptx)
+* [Lesson 7 Duologues and Scenes](y9acting/Term 2/Lesson 7 Duos and Scenes.pptx)
+* [Lesson 8 Duologues and Scenes](y9acting/Term 2/Lesson 8 Duos and Scenes.pptx)
+* [Resource - Reflective Journal](y9acting/Term 2/Yr 9 Reflective Journal Duos Scenes.docx)
 
 
 ## Dance
