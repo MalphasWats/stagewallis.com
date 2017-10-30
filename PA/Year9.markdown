@@ -58,7 +58,13 @@ title: Year 9
 * [Dance Skills Lesson 7](y9dance/Dance Skills Lesson 7.pptx)
 * [Dance Skills Lesson 8](y9dance/Dance Skills Lesson 8.pptx)
 
-### Unit 2: 
+### Unit 2: Street Dance
+* [Street Dance Lesson 1](y9dance/lesson-1-term-2-powerpoint- street dance.pptx)
+* [Street Dance Lesson 2](y9dance/lesson-2-term 2- powerpoint-street dance.pptx)
+* [Street Dance Lesson 3](y9dance/lesson 3-term 2 powerpoint-street dance.pptx)
+* [Street Dance Lesson 4](y9dance/lesson-4-Term 2-powerpoint-street dance.pptx)
+* [Street Dance Lesson 5](y9dance/lesson 5-term 2 powerpoint-street dance.pptx)
+* [Street Dance Lesson 6 & 7](y9dance/lesson-6 and 7- term 2 powerpoint- street dance.pptx)
 
-coming soon
+
 
