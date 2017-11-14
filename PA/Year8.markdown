@@ -19,13 +19,13 @@ title: Year 8
 * [Physical Theatre Lesson 1](y8acting/Year 8 Physical Theatre Skills Lesson 1.pptx)
 * [Physical Theatre Lesson 2](y8acting/Year 8 Physical Theatre Lesson 2.pptx)
 * [Physical Theatre Lesson 3](y8acting/Year 8 Physical Theatre Lesson 3.pptx)
-* [Lesson 3 Resource -  Haunted House Poem](y8acting/L3 Res Haunted house poem)
+* [Lesson 3 Resource -  Haunted House Poem](y8acting/L3 Res Haunted house poem.doc)
 * [Physical Theatre Lesson 4](y8acting/Year 8 Physical Theatre Lesson 4.pptx)
 * [Physical Theatre Lesson 5](y8acting/Year 8 Physical Theatre Lesson 5.pptx)
-* [Lesson 5 Resource - Little Miss Muffet](y8acting/L5 Res Little Miss Muffet)
-* [Lesson 5 Resource - Peer Evaluation Sheet](y8acting/L5 Res Peer Evaluation Sheet)
+* [Lesson 5 Resource - Little Miss Muffet](y8acting/L5 Res Little Miss Muffet.doc)
+* [Lesson 5 Resource - Peer Evaluation Sheet](y8acting/L5 Res Peer Evaluation Sheet.doc)
 * [Physical Theatre Lesson 6](y8acting/Year 8 Physical Theatre Lesson 6.pptx)
-* [Lesson 6 Resource - Pigs Assessment Task](y8acting/L6 Res Pigs Assessment task)
+* [Lesson 6 Resource - Pigs Assessment Task](y8acting/L6 Res Pigs Assessment task.doc)
 * [Physical Theatre Lesson 7](y8acting/Year 8 Physical Theatre Lesson 7.pptx)
 
 ## Dance
