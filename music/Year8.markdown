@@ -15,7 +15,8 @@ title: Year 8 Music
 
 ### Unit 3: Popular Styles at the Keyboard
 
-* [](year8music/) 
+* [Popular Styles SOW](year8music/Key Stage 3 Termly SOW Music Y8 Term 3.docx) 
+* [Pupil Keyboard Cards](year8music/Y8 Popular Styles at the Keyboard Workbook.pdf) 
 
 ### Unit 4: Ensemble Vocal Performance
 
