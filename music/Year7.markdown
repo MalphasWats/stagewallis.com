@@ -18,7 +18,7 @@ title: Year 7 Music
 
 ### Unit 3: Film Music
 
-* [Film Music SOW](Key Stage 3 Termly SOW Music Y7 Term 3.docx)
+* [Film Music SOW](year7music/Key Stage 3 Termly SOW Music Y7 Term 3.docx)
 
 
 ### Unit 4: Parody
