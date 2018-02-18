@@ -23,7 +23,11 @@ title: Year 7 Music
 
 ### Unit 4: Parody
 
-
+* [Parody SOW](year7music/Key Stage 3 Termly SOW Music Y7 Term 4.docx)
+* [Parody Lesson 1 PowerPoint](year7music/Parody lesson 1.ppt)
+* [Parody Lesson 2 PowerPoint](year7music/Parody lesson 2.ppt)
+* [Paraody Lesson 3 PowerPoint](year7music/Parody lesson 3.ppt)
+* [Parody Montage MP3](year7music/Parody_Montage.mp3)
 
 ### Unit 5: Vocal Recording
 
