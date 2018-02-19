@@ -20,7 +20,7 @@ title: Year 8 Music
 
 ### Unit 4: Ensemble Vocal Performance
 
-* [](year8music/) 
+* [Ensemble Vocal Performance SOW](year8music/Key Stage 3 Termly SOW Music Y8 Term 4.docx) 
 
 ### Unit 5: Class Ensemble
 
