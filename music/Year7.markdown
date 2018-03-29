@@ -31,6 +31,7 @@ title: Year 7 Music
 
 ### Unit 5: Vocal Recording
 
+* [Vocal Recording SOW](year7music/Key Stage 3 Termly SOW Music Y7 Term 5[1].docx)
 
 
 ### Unit 6: Ringtone

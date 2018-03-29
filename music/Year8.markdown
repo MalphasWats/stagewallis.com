@@ -22,9 +22,9 @@ title: Year 8 Music
 
 * [Ensemble Vocal Performance SOW](year8music/Key Stage 3 Termly SOW Music Y8 Term 4.docx) 
 
-### Unit 5: Class Ensemble
+### Unit 5: Band Project
 
-* [](year8music/) 
+* [Band Project SOW](year8music/Key Stage 3 Termly SOW Music Y8 Term 5[3].docx) 
 
 ### Unit 6: GarageBand Dance Composition
 
