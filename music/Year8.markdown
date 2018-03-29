@@ -25,8 +25,14 @@ title: Year 8 Music
 ### Unit 5: Band Project
 
 * [Band Project SOW](year8music/Key Stage 3 Termly SOW Music Y8 Term 5[3].docx) 
+* [Self Assessment Diary](year8music/Year 8 Term 5 Band Project Self Assessment Diary[2].docx)
 
 ### Unit 6: GarageBand Dance Composition
 
 * [](year8music/) 
+
+
+### End of Year Assessment
+
+* [Year 8 End of Year Assessment](year8music/Year 8 Music End of Year Exam.docx) 
 

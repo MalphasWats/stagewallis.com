@@ -32,9 +32,14 @@ title: Year 7 Music
 ### Unit 5: Vocal Recording
 
 * [Vocal Recording SOW](year7music/Key Stage 3 Termly SOW Music Y7 Term 5[1].docx)
+* [Self Assessment Diary](year7music/Year 7 Term 5 Vocal Project Self Assessment Diary[1].docx)
 
 
 ### Unit 6: Ringtone
 
 
 
+
+### End of Year Assessment
+
+* [Year 7 End of Year Assessment](year7music/Year 7 End of Year Music Exam.docx)
